@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanzz</h1>
 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,19 +43,15 @@
   </a>
 </p>
 
-<br>
-<br>
-
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark)
-
-
-<br><br><br><br><br><br><br><br>
-
-<hr width="60%">
+<hr align="center" width="60%">
 
 <!-- Snake Animation -->
 <p align="center">
