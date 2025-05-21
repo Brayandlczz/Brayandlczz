@@ -48,22 +48,14 @@
 <br>
 <br>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brayandlczz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Brayandlczz" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark)
 
-<br><br><br><br><br><br><br><br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark&locale=en" alt="Brayandlczz" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark)
 
-<br><br><br><br><br><br><br><br>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Brayandlczz&theme=dark" alt="Brayandlczz" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brayandlczz&theme=dark)
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
