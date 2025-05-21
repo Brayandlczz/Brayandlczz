@@ -54,8 +54,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brayandlczz&theme=dark)
-
 
 <br><br><br><br><br><br><br><br><br><br>
 
