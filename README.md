@@ -45,11 +45,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark" />
 
 <hr align="center" width="60%">
 
