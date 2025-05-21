@@ -55,7 +55,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark)
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <hr width="60%">
 
