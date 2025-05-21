@@ -63,7 +63,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark&locale=en" alt="Brayandlczz" />
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Brayandlczz&theme=dark" alt="Brayandlczz" />
 </p>
