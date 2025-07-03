@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yanzz</h1>
+<h1 align="center">Hi, It's me!</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
