@@ -43,6 +43,13 @@
   </a>
 </p>
 
+<h3 align="left">📜 Certifications:</h3>
+<p align="left">
+  <a href="[https://www.credly.com/badges/ceh](https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white" alt="CEH" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" />
@@ -50,8 +57,6 @@
 
 <hr align="center" width="60%">
 
-<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/github-snake-dark.svg" alt="snake" />
 </p>
-
