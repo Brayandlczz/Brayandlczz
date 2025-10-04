@@ -61,13 +61,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/github-snake-dark.svg" alt="snake" />
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark" />
-
-<hr align="center" width="60%">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/github-snake-dark.svg" alt="snake" />
-</p>
