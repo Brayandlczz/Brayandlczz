@@ -46,7 +46,7 @@
 <h3 align="left">📜 Certifications:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Solutions" />
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   </a>
 </p>
 
