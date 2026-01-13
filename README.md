@@ -50,8 +50,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark" height="160" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brayandlczz&show_icons=true&theme=dark&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brayandlczz&layout=compact&theme=dark&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
