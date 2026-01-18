@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Brayan 👋</h1>
-<h3 align="center">Full Stack Developer | Web & Software Enthusiast</h3>
+<h3 align="center">Full Stack Developer attempt | Web & Software Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Brayandlczz">
