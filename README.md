@@ -21,35 +21,44 @@ I enjoy collaborating on challenging projects, continuously improving my technic
 ## Technical Skills
 
 ### Programming Languages
-- JavaScript
-- Python
-- Java
-- C / C++
-- SQL
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+</p>
+
+---
 
 ### Web & Backend Development
-- React
-- Node.js
-- HTML5
-- CSS3
-- RESTful APIs
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+</p>
 
-### Databases
-- MySQL
-- Relational database design
+---
 
 ### Tools & Platforms
-- Git
-- Linux
-- Tailwind CSS
-- Cloud fundamentals
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
+</p>
 
 ---
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner  
-  https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url
+<p align="left">
+  <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -65,4 +74,3 @@ I enjoy collaborating on challenging projects, continuously improving my technic
 <p align="center">
   <img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/github-snake-dark.svg" alt="snake animation" />
 </p>
-
