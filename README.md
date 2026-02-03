@@ -127,7 +127,7 @@
 <h4 align="left">Hey! You forgot about this!</h34>
 
 <div align="left">
-  <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url"  height="25" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&labelColor=232F3E&style=for-the-badge" height="25" alt="AWS Cloud Practitioner Badge" />
   </a>
 </div>
