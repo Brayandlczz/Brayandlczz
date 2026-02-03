@@ -123,3 +123,20 @@
 </div>
 
 ###
+<h3 align="center">Hey! You forgot about this!</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank">
+    <img 
+      src="https://images.credly.com/size/340x340/images/6841f0d6-9a1f-4b07-8c5b-4c1b8e9d8f5b/AWS-Certified-Cloud-Practitioner.png" 
+      alt="AWS Certified Cloud Practitioner Badge"
+      width="160"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>AWS Cloud Practitioner badge</strong><br />
+  Validated knowledge of AWS Cloud concepts, services, security, and best practices.
+</p>
+
