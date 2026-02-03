@@ -126,14 +126,11 @@
 
 <h3 align="center">Hey! You forgot about this!</h3>
 
-<p align="center">
+<div align="left">
   <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://images.credly.com/size/340x340/images/6841f0d6-9a1f-4b07-8c5b-4c1b8e9d8f5b/AWS-Certified-Cloud-Practitioner.png" 
-      alt="AWS Certified Cloud Practitioner"
-      width="150"
-    />
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="AWS Cloud Practitioner Badge" />
   </a>
-</p>
+</div>
+
 
 
