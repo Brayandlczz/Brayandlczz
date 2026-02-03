@@ -115,14 +115,13 @@
 ###
 
 <div align="left">
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=white&style=for-the-badge" height="25" alt="terminal logo" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo" />
   <img width="15" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" height="25" alt="n8n logo" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/iYanzz/iYanzz/output/snake.svg" alt="Snake animation" />
 
 ###
 
