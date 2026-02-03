@@ -1,76 +1,131 @@
-<h1 align="center">Brayan</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/Brayandlczz">
-    <img src="https://komarev.com/ghpvc/?username=Brayandlczz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+###
 
----
+<h2 align="center">Hi! I'm iYanzz</h2>
 
-## About Me
+###
 
-I am a Full Stack Software Developer focused on building modern, scalable, and maintainable digital solutions.  
-I work primarily on web platforms, backend systems, and cloud-based architectures, with a strong emphasis on clean code, performance, and long-term maintainability.
+<h4 align="left">About me</h4>
 
-I enjoy collaborating on challenging projects, continuously improving my technical skills, and applying best practices in software engineering.
+###
 
----
+<h6 align="left">- I am a Full Stack Developer with experience building web applications using Laravel, React, Next.js, Bootstrap, Tailwind CSS, and TypeScript.<br>- I work with relational databases, primarily PostgreSQL, focusing on data modeling, performance, and maintainability.<br>- I have experience creating automations, implementing deployment workflows, and managing production environments using platforms such as Vercel.<br>- I have worked with content management systems (CMS) including WordPress, Elementor, and Kubio, delivering custom and optimized solutions.<br>- I enjoy developing clean, scalable, and efficient software to solve real-world business problems.<br>- My work spans both frontend and backend development, including API design, integrations, and system structure.<br>- I am continuously improving my skills in software architecture, modern web technologies, and best development practices.<br>- I am open to professional opportunities in full stack software development.</h6>
 
-## Technical Skills
+###
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-</p>
+<h4 align="left">My main stack to work:</h4>
 
----
+###
 
-### Web & Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="25" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
+</div>
 
----
+###
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
-</p>
+<h4 align="left">Languages:</h4>
 
----
+###
 
-## Certifications
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="25" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+</div>
 
-<p align="left">
-  <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<h4 align="left">Databases:</h4>
 
-## Current Focus
+###
 
-- Designing and developing full stack web applications
-- Strengthening backend and cloud architecture skills
-- Applying scalable and secure development practices
-- Building professional and business-oriented software projects
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="25" alt="microsoftsqlserver logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/github-snake-dark.svg" alt="snake animation" />
-</p>
+<h4 align="left">Frameworks:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="flask logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
+</div>
+
+###
+
+<h4 align="left">Operative systems:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="25" alt="windows8 logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
+</div>
+
+###
+
+<h4 align="left">Software and tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="left">Authomatizations & extras:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
