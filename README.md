@@ -124,8 +124,6 @@
 
 ###
 
-<h4 align="left">Hey! You forgot about this!</h34>
-
 <h4 align="left">Hey! You forgot about this!</h4>
 
 <div align="left">
