@@ -124,7 +124,7 @@
 
 ###
 
-<h3 align="center">Hey! You forgot about this!</h3>
+<h4 align="left">Hey! You forgot about this!</h34>
 
 <div align="left">
   <a href="https://www.credly.com/badges/cbb8b5af-a7a8-4e33-bde4-0521363ed4e4/public_url" target="_blank" rel="noopener noreferrer">
