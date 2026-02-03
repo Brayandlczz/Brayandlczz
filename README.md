@@ -115,12 +115,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" height="25" alt="n8n logo" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Brayandlczz/Brayandlczz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iYanzz/iYanzz/output/snake.svg" alt="Snake animation" />
 
 ###
 
