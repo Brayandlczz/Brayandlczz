@@ -45,10 +45,6 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="25" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
-  <img width="15" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
@@ -62,10 +58,8 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <img width="5" />
+  <img width="15" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="25" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -115,8 +109,8 @@
 ###
 
 <div align="left">
-  <img width="15" />
   <img src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=white&style=for-the-badge" height="25" alt="terminal logo" />
+  <img width="15" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo" />
   <img width="15" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" height="25" alt="n8n logo" />
