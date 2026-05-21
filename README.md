@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">- I am a Full Stack Developer with experience building web applications using Laravel, React, Next.js, Bootstrap, Tailwind CSS, and TypeScript.<br>- I work with relational databases, primarily PostgreSQL, focusing on data modeling, performance, and maintainability.<br>- I have experience creating automations, implementing deployment workflows, and managing production environments using platforms such as Vercel.<br>- I have worked with content management systems (CMS) including WordPress, Elementor, and Kubio, delivering custom and optimized solutions.<br>- I enjoy developing clean, scalable, and efficient software to solve real-world business problems.<br>- My work spans both frontend and backend development, including API design, integrations, and system structure.<br>- I am continuously improving my skills in software architecture, modern web technologies, and best development practices.<br>- I am open to professional opportunities in full stack software development.</h5>
+<h5 align="left">- I am a Full Stack Developer with experience building web applications using Laravel, React, Next.js, Bootstrap, Tailwind CSS, and TypeScript.<br>- I work with relational databases, primarily PostgreSQL, focusing on data modeling, performance, and maintainability.<br>- I have experience creating automations, implementing deployment workflows, and managing production environments using platforms such as Vercel and Cloudflare.<br>- I have worked with content management systems (CMS) including WordPress, Elementor, and Kubio, delivering custom and optimized solutions.<br>- I enjoy developing clean, scalable, and efficient software to solve real-world business problems.<br>- My work spans both frontend and backend development, including API design, integrations, and system structure.<br>- I am continuously improving my skills in software architecture, modern web technologies, and best development practices.<br>- I am open to professional opportunities in full stack software development.</h5>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" height="25" alt="cloudflare logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="25" alt="supabase logo"  />
   <img width="15" />
@@ -69,6 +71,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="15" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" alt="laravel logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="flask logo"  />
@@ -98,6 +102,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
